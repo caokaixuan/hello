@@ -1,0 +1,19 @@
+$Recycle.Bin/
+$WINDOWS.~BT/
+Boot/
+bootmgr
+BOOTNXT
+Documents and Settings@
+hello/
+hiberfil.sys
+Intel/
+pagefile.sys
+PerfLogs/
+Program Files/
+Program Files (x86)/
+ProgramData/
+Recovery/
+swapfile.sys
+System Volume Information/
+Users/
+Windows/
